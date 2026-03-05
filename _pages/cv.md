@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Atmospheric Remote Sensing, University of Electronic Science and Technology of China (UESTC), China, Jun 2015.
+* M.S. in Geoinformatics, University of Electronic Science and Technology of China (UESTC), China, Jun 2010.
+* B.S. in Automation, University of Electronic Science and Technology of China (UESTC), China, Jun 2007.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021: Senior Engineer
+  * Satellite Data Assimilation Division, CMA Earth System Modeling and Prediction Centre
+  * China Meteorological Administration
+  * Duties includes: Satellite Data Assimilation (Lidar Observation, Lighting Imager, Wind field, Precipitation,...)
+    
+* 2015-2021: Researcher / Senior Engineer
+  * National Satellite Meteorological Center,
+  * China Meteorological Administration
+  * Duties includes: Remote sensing algorithms (Cloud properties from geostationary satellites)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: Technical Staff
+  * Earth Observation System and Data Center
+  * China National Space Administration
+  * Duties includes: Remote sensing applications (Land, Ocean and Atmosphere, ...)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024: Visiting Scholar
+  * Faculty of Science and Technology, University of Macau
+  * Duties includes: Machine Learning for Remote sensing and NWP
+  * Supervisor: Professor Yicong Zhou
   
 Skills
 ======
