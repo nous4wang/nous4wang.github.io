@@ -23,8 +23,8 @@ repository               : "nous4wang/nous4wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "faceCV1.png"
-  name             : "Fu Wang"
+avatar: "faceCV1.png"
+name: "Fu Wang"
   pronouns         : # example: "she/her"  
   bio              : "Senior Engineer, CMA Earth System Modeling and Prediction Centre,WMO Expert"
   location         : "Beijing China"
