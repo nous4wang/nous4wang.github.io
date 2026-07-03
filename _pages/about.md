@@ -1,7 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Fu Wang"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a Senior Engineer at the **CMA Earth System Modeling and Prediction Centre (CEMC)**, China Meteorological Administration, working in the Satellite Data Assimilation Division. My research focuses on **satellite data assimilation**, **deep learning for remote sensing**, and their applications to **numerical weather prediction (NWP)**.
