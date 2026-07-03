@@ -30,7 +30,7 @@ name: "Fu Wang"
   location         : "Beijing China"
   employer         : "China Meteorological Administration"
   uri              : # URL
-  email            : "wangfu@cma.cn 
+  email            : "wangfu@cma.cn"
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ name: "Fu Wang"
   orcid            : "https://orcid.org/0000-0002-7540-3731"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ name: "Fu Wang"
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "nous4wang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -302,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

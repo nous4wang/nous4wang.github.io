@@ -39,12 +39,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Satellite Data Assimilation (Lidar, Lightning Imager, Wind, Precipitation)
+* Deep Learning for Remote Sensing (CNN, Transformer, Mamba architectures)
+* Remote Sensing Algorithms (Cloud properties from geostationary satellites)
+* Numerical Weather Prediction (NWP)
+* Hyperspectral Infrared Sounding
+* Python, PyTorch, Fortran, Git
 
 Publications
 ======
@@ -66,4 +66,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* WMO Expert
+* Reviewer for Remote Sensing, IEEE TGRS, Atmospheric Research, and other journals
