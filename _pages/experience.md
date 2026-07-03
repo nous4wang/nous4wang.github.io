@@ -1,10 +1,8 @@
 ---
-title: "Research Experience"
+title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-
-## Research Experience
 
 2024.03 - 2024.12, Visiting Scholar, Faculty of Science and Technology, University of Macau
 - Research: Machine Learning for Remote Sensing and NWP
