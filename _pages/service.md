@@ -14,7 +14,7 @@ author_profile: true
 - IEEE Transactions on Industrial Informatics (**IEEE TII**)
 - IEEE Transactions on Geoscience and Remote Sensing (**IEEE TGRS**)
 - Remote Sensing
-- Atmospheric Research (**Associate Editor**)
+- Atmospheric Research
 - International Journal of Digital Earth
 - Atmospheric Chemistry and Physics
 - And other journals in remote sensing and atmospheric science
@@ -24,6 +24,7 @@ author_profile: true
 - **IEEE Senior Member**
 - **AAAI Program Committee Member**, 2025–Present
 - **Committee Member**, Satellite Meteorology Committee, Chinese Meteorological Society
+- **Early Career Editorial Board Member**, Remote Sensing, 2024–Present
 - **Guest Editor**, Remote Sensing, 2024–2026
 - **Conference Session Co-Chair**, Session on Quantitative Development of Remote Sensing Payloads, China National Symposium on Quantitative Remote Sensing, 2025
 - **Grant Review Service**, National Natural Science Foundation of China (NSFC), 2016–Present
