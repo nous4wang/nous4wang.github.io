@@ -8,62 +8,87 @@ author_profile: true
 
 ### 2026
 
-**一种基于量子增强神经算子的三维云结构预测系统** <br>
-发明人: **王富**, 陆其峰, 杨小飞, 隆心雨, 张萌<br>
-专利号: ZL 2025 1 1870636.6 (CN 121746590 B)<br>
-专利权人: 中国气象局地球系统数值预报中心<br>
-授权公告日: 2026.07.03
+**A Three-Dimensional Cloud Structure Prediction System Based on Quantum-Enhanced Neural Operators** <br>
+Inventors: **Fu Wang**, Qifeng Lu, Xiaofei Yang, Xinyu Long, Meng Zhang<br>
+Patent No.: ZL 2025 1 1870636.6 (CN 121746590 B)<br>
+Patent Assignee: CMA Earth System Modeling and Prediction Centre<br>
+Grant Date: 2026-07-03<br>
+Type: Chinese Patent (Invention)
 
 ### 2025
 
-**一种多模拟参考源的仪器在轨性能评估方法** <br>
-发明人: 陆其峰, 胡菊旸, 吴春强, **王富**, 倪卓娅, 肖贤俊, 刘瑞霞, 漆成莉, 郭杨, 武胜利, 徐寒列, 孙凌, 商建, 窦芳丽, 孙逢林, 安大伟, 张迺强, 鄢俊洁<br>
-专利号: ZL 2022 1 0016466.5 (CN 114509177 B)<br>
-专利权人: 国家卫星气象中心（国家空间天气监测预警中心）<br>
-授权公告日: 2025.08.19
+**An On-Orbit Performance Evaluation Method for Instruments with Multiple Analog Reference Sources** <br>
+Inventors: Qifeng Lu, Juyang Hu, Chunqiang Wu, **Fu Wang**, Zhuoya Ni, Xianjun Xiao, Ruixia Liu, Chengli Qi, Yang Guo, Shengli Wu, Hanlie Xu, Ling Sun, Jian Shang, Fangli Dou, Fenglin Sun, Dawei An, Naiqiang Zhang, Junjie Yan<br>
+Patent No.: ZL 2022 1 0016466.5 (CN 114509177 B)<br>
+Patent Assignee: National Satellite Meteorological Centre (National Space Weather Monitoring and Early Warning Centre)<br>
+Grant Date: 2025-08-19<br>
+Type: Chinese Patent (Invention)
 
-**一种联合卫星遥感多光谱与地理信息的霾识别方法** <br>
-专利号: CN 114758253 B<br>
-授权公告日: 2025.05.23
+**A Method for Haze Identification by Combining Satellite Remote Sensing Multispectral and Geographic Information** <br>
+Inventors: Yidan Si, Xingying Zhang, Lin Chen, Na Xu, **Fu Wang**, Huanhuan Yan<br>
+Patent No.: CN 114758253 B<br>
+Grant Date: 2025-05-23<br>
+Type: Chinese Patent (Invention)
 
 ### 2024
 
-**一种红外高光谱干涉仪关键定标参数在轨优化方法** <br>
-专利号: CN 113670191 B<br>
-专利权人: 国家卫星气象中心（国家空间天气监测预警中心）<br>
-授权公告日: 2024.10.25
+**An On-Orbit Optimization Method for Key Calibration Parameters of Infrared Hyperspectral Interferometer** <br>
+Inventors: Qifeng Lu, Zhuoya Ni, Yishu Xu, Chunqiang Wu, **Fu Wang**<br>
+Patent No.: CN 113670191 B<br>
+Patent Assignee: National Satellite Meteorological Centre (National Space Weather Monitoring and Early Warning Centre)<br>
+Grant Date: 2024-10-25<br>
+Type: Chinese Patent (Invention)
 
-**一种利用气象卫星计算云底高度的方法** <br>
-专利号: CN 113945459 B<br>
-授权公告日: 2024.08.20
+**A Method for Calculating Cloud Base Height Using Meteorological Satellites** <br>
+Inventors: Danyu Qin, Ruixia Liu, Xiao Wu, Wen Hui, Bingyun Yang, **Fu Wang**<br>
+Patent No.: CN 113945459 B<br>
+Grant Date: 2024-08-20<br>
+Type: Chinese Patent (Invention)
 
-**一种风云气象卫星协同多数据源的三维云融合分析的方法** <br>
-专利号: CN 114896544 B<br>
-授权公告日: 2024.09.17
+**A Method for Three-Dimensional Cloud Fusion Analysis Using Fengyun Meteorological Satellite Collaborative Multi-Data Sources** <br>
+Inventors: Ruixia Liu, Wen Hui, Bingyun Yang, **Fu Wang**, Yueli Liu<br>
+Patent No.: CN 114896544 B<br>
+Grant Date: 2024-09-17<br>
+Type: Chinese Patent (Invention)
 
-**基于微波双频极化差分比的地表影响抑制方法** <br>
-授权公告日: 2024.03.19
+**A Surface Influence Suppression Method Based on Microwave Dual-Frequency Polarization Differential Ratio** <br>
+Inventors: Qifeng Lu, **Fu Wang**, Chunqiang Wu, Yansong Bao, Shengli Wu, Dawei An, Honggang Yin, Fenglin Sun, Jian Shang, Juyang Hu, Fangli Dou, Yang Guo, Yong Zhang, Ruixia Liu<br>
+Patent No.: ZL 2021 1 0654218.9<br>
+Grant Date: 2024-03-19<br>
+Type: Chinese Patent (Invention)
 
 ### 2023
 
-**一种基于交叉点双参考源偏差的卫星数据质量监控方法** <br>
-授权公告日: 2023.09.29
+**A Satellite Data Quality Monitoring Method Based on Crossover Dual Reference Source Bias** <br>
+Inventors: Qifeng Lu, Juyang Hu, Chunqiang Wu, **Fu Wang**, Chengli Qi, Yang Guo, Shengli Wu, Hanlie Xu, Zhuoya Ni, Xianjun Xiao, Ruixia Liu, Ling Sun, Jian Shang, Fangli Dou<br>
+Patent No.: ZL 2021 1 1576921.9<br>
+Grant Date: 2023-09-29<br>
+Type: Chinese Patent (Invention)
 
-**基于云端的红外高光谱辐射传输快速并发计算系统及方法** <br>
-专利号: CN 113687961 B<br>
-专利权人: 国家卫星气象中心（国家空间天气监测预警中心）<br>
-授权公告日: 2023.09.26
+**A Cloud-Based Fast Concurrent Computing System and Method for Infrared Hyperspectral Radiative Transfer** <br>
+Inventors: Qifeng Lu, Naiqiang Zhang, Chunqiang Wu, **Fu Wang**, Chengli Qi, Junjie Yan, Juyang Hu, Yishu Xu, Xianjun Xiao, Hui Liu, Zhuoya Ni, Jianhua Qu<br>
+Patent No.: ZL 2021 1 0948318.2 (CN 113687961 B)<br>
+Patent Assignee: National Satellite Meteorological Centre (National Space Weather Monitoring and Early Warning Centre)<br>
+Grant Date: 2023-09-26<br>
+Type: Chinese Patent (Invention)
 
-**高垂直分辨率0-4km大气温湿度微波探测仪** <br>
-授权公告日: 2023.09.26
+**High Vertical Resolution 0–4 km Atmospheric Temperature and Humidity Microwave Sounder** <br>
+Inventors: Qifeng Lu, **Fu Wang**, Jian Shang, Shengli Wu, Juyang Hu, Fangli Dou, Dawei An, Chunqiang Wu, Yansong Bao<br>
+Patent No.: ZL 2021 1 0500968.0<br>
+Grant Date: 2023-09-26<br>
+Type: Chinese Patent (Invention)
 
-**一种静止气象卫星的水汽总量与分层水汽产品的生产方法** <br>
-授权公告日: 2023.05.12
+**A Production Method for Total Water Vapor and Layered Water Vapor Products from Geostationary Meteorological Satellites** <br>
+Inventors: Yong Zhang, Jun Li, Jing Zheng, Zhenglong Li, Gaoqiang Zheng, **Fu Wang**, Qifeng Lu<br>
+Patent No.: ZL 2022 1 1063114.1<br>
+Grant Date: 2023-05-12<br>
+Type: Chinese Patent (Invention)
 
 ### 2021
 
-**一种基于云顶高度算法的红外通道辐射稳定性监测方法** <br>
-发明人: **王富**, 闵敏, 陆其峰, 徐娜, 王志伟, 朱琳<br>
-专利号: CN 112816071 B<br>
-专利权人: 国家卫星气象中心（国家空间天气监测预警中心）<br>
-授权公告日: 2021.12.28
+**An Infrared Channel Radiometric Stability Monitoring Method Based on Cloud Top Height Algorithm** <br>
+Inventors: **Fu Wang**, Min Min, Qifeng Lu, Na Xu, Zhiwei Wang, Lin Zhu<br>
+Patent No.: CN 112816071 B<br>
+Patent Assignee: National Satellite Meteorological Centre (National Space Weather Monitoring and Early Warning Centre)<br>
+Grant Date: 2021-12-28<br>
+Type: Chinese Patent (Invention)
