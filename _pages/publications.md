@@ -64,8 +64,8 @@ Ruixia Liu, Qifeng Lu, Chunqiang Wu, Zhuoya Ni, <b>Fu Wang</b><br>
 Yuqin Liu, Tao Lin, Jiahua Zhang, <b>Fu Wang</b>, Yiyi Huang, Xian Wu, Hong Ye, Guoqin Zhang, Xin Cao, Gerrit de Leeuw<br>
 <i>Atmospheric Chemistry and Physics, 24(8), 4651–4673, 2024</i>.
 
-<b>[Algorithm for Detecting Ice Overlaying Water Multilayer Clouds Using the Infrared Bands of FY-4A/AGRI](https://doi.org/10.1109/LGRS.2024.3372150)</b> <br>
-Kaiyang Wang, <b>Fu Wang</b>, Qifeng Lu, Ruixia Liu, Zhaojun Zheng, Zhiwei Wang, Chunqiang Wu, Zhuoya Ni, Xiaofang Liu<br>
+<b>[Algorithm for Detecting Ice Overlaying Water Multilayer Clouds Using the Infrared Bands of FY-4A/AGRI](https://doi.org/10.1109/LGRS.2024.3372150)</b> †✦ <br>
+Kaiyang Wang†, <b>Fu Wang</b>†✦, Qifeng Lu, Ruixia Liu, Zhaojun Zheng, Zhiwei Wang, Chunqiang Wu, Zhuoya Ni, Xiaofang Liu<br>
 <i>IEEE Geoscience and Remote Sensing Letters, 21, 1001205, 2024</i>.
 
 <b>[Precipitation Estimation Using FY-4B/AGRI Satellite Data Based on Random Forest](https://doi.org/10.3390/rs16071267)</b> <br>
