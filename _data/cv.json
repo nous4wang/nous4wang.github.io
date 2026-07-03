@@ -1,152 +1,134 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Fu Wang",
+    "email": "wangfu@cma.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://nous4wang.github.io",
+    "summary": "Senior Engineer at CMA Earth System Modeling and Prediction Centre (CEMC), specializing in satellite data assimilation, deep learning for remote sensing, and numerical weather prediction.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Fu Wang",
+        "url": "https://scholar.google.com/citations?user=e9C6DKYAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0002-7540-3731",
+        "url": "https://orcid.org/0000-0002-7540-3731"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "nous4wang",
+        "url": "https://github.com/nous4wang"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "CMA Earth System Modeling and Prediction Centre (CEMC)",
+      "position": "Senior Engineer",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "Satellite Data Assimilation Division",
+      "highlights": []
+    },
+    {
+      "company": "National Satellite Meteorological Center, CMA",
+      "position": "Researcher",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Earth Observation System and Data Center, CNSA",
+      "position": "Technical Staff",
+      "website": "",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Electronic Science and Technology of China (UESTC)",
+      "area": "Ph.D. in Atmospheric Remote Sensing",
+      "studyType": "Ph.D.",
+      "startDate": "2010",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Electronic Science and Technology of China (UESTC)",
+      "area": "M.S. in Geoinformatics",
+      "studyType": "M.S.",
+      "startDate": "2007",
+      "endDate": "2010",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of Electronic Science and Technology of China (UESTC)",
+      "area": "B.S. in Automation",
+      "studyType": "B.S.",
+      "startDate": "2003",
+      "endDate": "2007",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Satellite Data Assimilation",
+      "level": "",
+      "keywords": ["FY-4A/GIIRS", "FY-3D/HIRAS", "NWP", "radiance assimilation"]
+    },
+    {
+      "name": "Deep Learning",
+      "level": "",
+      "keywords": ["PyTorch", "CNN", "Transformer", "Mamba", "U-Net"]
+    },
+    {
+      "name": "Remote Sensing",
+      "level": "",
+      "keywords": ["cloud detection", "cloud property retrieval", "precipitation nowcasting"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Satellite Meteorology"
+    },
+    {
+      "name": "Atmospheric Remote Sensing"
+    },
+    {
+      "name": "AI for Weather & Climate"
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
