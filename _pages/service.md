@@ -10,13 +10,15 @@ author_profile: true
 - **Member, CMA Expert for International Organizations**
 - **Young Committee Member**, Satellite Meteorology Committee, Chinese Meteorological Society
 
-## Guest Editor
+## Editorial Service
 
-- **Remote Sensing**, 2024–2026
+- **Early Career Editorial Board Member**, Remote Sensing, 2026–Present
+- **Guest Editor**, Remote Sensing, 2024–2026
 
 ## Conference Session Co-Chair
 
 - Session on Quantitative Development of Remote Sensing Payloads, China National Symposium on Quantitative Remote Sensing, 2025
+- "Bridging Remote Sensing and NWP: AI-Driven Advances in Monitoring and Forecasting", APGARSS 2026
 
 ## Program Committee
 
